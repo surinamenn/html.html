@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>cabang 1</title>
+        cabang 1
     </head>
     <h2>urutan belajar</h2>
     <ol>
